@@ -1,2 +1,2 @@
-# cucumber-Selenium_Gucci
-Automation project of Gucci France with Selenium and Cucumber
+# zenity-intranet-sample
+https://www.gucci.com/fr/fr/
